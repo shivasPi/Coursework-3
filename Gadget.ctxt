@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Gadget
+comment1.params=model\ price\ weight\ size
+comment1.target=Gadget(java.lang.String,\ double,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getmodel()
+comment3.params=
+comment3.target=double\ getprice()
+comment4.params=
+comment4.target=int\ getweight()
+comment5.params=
+comment5.target=java.lang.String\ getsize()
+comment6.params=
+comment6.target=void\ display()
+comment7.params=_model\ _price\ _weight\ _size
+comment7.target=Gadget\ createGadget(java.lang.String,\ double,\ int,\ java.lang.String)
+numComments=8

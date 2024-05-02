@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Mobile
+comment1.params=model\ price\ weight\ size\ credit
+comment1.target=Mobile(java.lang.String,\ double,\ double,\ double,\ int)
+comment10.params=size
+comment10.target=void\ setSize(double)
+comment11.params=credit
+comment11.target=void\ setCredit(int)
+comment12.params=args
+comment12.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=java.lang.String\ getModel()
+comment3.params=
+comment3.target=double\ getPrice()
+comment4.params=
+comment4.target=double\ getWeight()
+comment5.params=
+comment5.target=double\ getSize()
+comment6.params=
+comment6.target=int\ getCredit()
+comment7.params=model
+comment7.target=void\ setModel(java.lang.String)
+comment8.params=price
+comment8.target=void\ setPrice(double)
+comment9.params=weight
+comment9.target=void\ setWeight(double)
+numComments=13
